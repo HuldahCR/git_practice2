@@ -1,2 +1,2 @@
-#My first encounter
-##Learning Version Control
+# My first encounter
+## Learning Version Control
